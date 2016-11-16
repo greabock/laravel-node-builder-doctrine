@@ -1,0 +1,13 @@
+{
+    "version": "0.1",
+    "name": "greabock/laravel-node-builder-doctrine",
+    "authors": [
+        {
+            "name": "Greabock",
+            "email": "greabock@gmail.com"
+        }
+    ],
+    "require": {
+        "greabock/node-builder-doctrine": "0.1"
+    }
+}
